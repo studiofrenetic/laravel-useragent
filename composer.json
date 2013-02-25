@@ -1,0 +1,15 @@
+{
+    "name": "frenesie/bundles/useragent",
+    "description": "laravel-useragent - A port of the user agent library from Codeigniter to Laravel",
+    "authors": [
+        {
+            "name": "Patrick Foh",
+            "email": "patrickfoh@gmail.com",
+            "homepage": "http://jasonlewis.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev"
+}
